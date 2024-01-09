@@ -11,7 +11,7 @@ public class Dice {
 		if(dice1 ==dice2) {
 			score *= 2;
 		}
-		System.out.println("点数："+score);
+		System.out.println("work："+score);
 	}
 
 }
