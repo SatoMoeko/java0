@@ -11,11 +11,10 @@ public class Dice {
 		if(dice1 ==dice2) {
 			score *= 2;
 		}
-<<<<<<< HEAD
 		System.out.println("main："+score);
-=======
-		System.out.println("work："+score);
->>>>>>> work
+		System.out.println("main：");
+		System.out.println("main：");
+
 	}
 
 }
