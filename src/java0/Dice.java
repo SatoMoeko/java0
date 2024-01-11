@@ -13,7 +13,7 @@ public class Dice {
 		}
 		System.out.println("main："+score);
 		System.out.println("main：");
-		System.out.println("main：");
+		
 
 	}
 
